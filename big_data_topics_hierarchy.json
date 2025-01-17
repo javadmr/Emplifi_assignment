@@ -1,0 +1,1873 @@
+{
+  "topics": [
+    {
+      "topic": "Political events",
+      "frequency": 60
+    },
+    {
+      "topic": "Consequences of wars",
+      "frequency": 52
+    },
+    {
+      "topic": "Presidency of Donald Trump",
+      "frequency": 200
+    },
+    {
+      "topic": "Sports competitions",
+      "frequency": 63
+    },
+    {
+      "topic": "Chronology of war",
+      "frequency": 62
+    },
+    {
+      "topic": "Equality rights",
+      "frequency": 48
+    },
+    {
+      "topic": "Foreign relations",
+      "frequency": 126
+    },
+    {
+      "topic": "Middle East",
+      "frequency": 264
+    },
+    {
+      "topic": "Donald Trump",
+      "frequency": 382
+    },
+    {
+      "topic": "Economy",
+      "frequency": 58
+    },
+    {
+      "topic": "Diplomacy",
+      "frequency": 223
+    },
+    {
+      "topic": "Crime",
+      "frequency": 53
+    },
+    {
+      "topic": "Military of Israel",
+      "frequency": 185
+    },
+    {
+      "topic": "Elections",
+      "frequency": 39
+    },
+    {
+      "topic": "Sports",
+      "frequency": 72
+    },
+    {
+      "topic": "Warfare",
+      "frequency": 352
+    },
+    {
+      "topic": "Religion-based civil wars",
+      "frequency": 106
+    },
+    {
+      "topic": "LGBT",
+      "frequency": 70
+    },
+    {
+      "topic": "Israeli–Palestinian conflict",
+      "frequency": 232
+    },
+    {
+      "topic": "Judaism and warfare",
+      "frequency": 202
+    },
+    {
+      "topic": "LGBT rights",
+      "frequency": 50
+    },
+    {
+      "topic": "Politics of Israel",
+      "frequency": 249
+    },
+    {
+      "topic": "Social institutions",
+      "frequency": 80
+    },
+    {
+      "topic": "Korea",
+      "frequency": 206
+    },
+    {
+      "topic": "Palestinian politics",
+      "frequency": 228
+    },
+    {
+      "topic": "Politics of North Korea",
+      "frequency": 296
+    },
+    {
+      "topic": "Justice",
+      "frequency": 186
+    },
+    {
+      "topic": "Law",
+      "frequency": 167
+    },
+    {
+      "topic": "Natural hazards",
+      "frequency": 24
+    },
+    {
+      "topic": "Shia–Sunni sectarian violence",
+      "frequency": 80
+    },
+    {
+      "topic": "Europe",
+      "frequency": 21
+    },
+    {
+      "topic": "Islam and Judaism",
+      "frequency": 202
+    },
+    {
+      "topic": "Arab rebellions",
+      "frequency": 73
+    },
+    {
+      "topic": "Cultural geography",
+      "frequency": 93
+    },
+    {
+      "topic": "Politics of the Middle East",
+      "frequency": 309
+    },
+    {
+      "topic": "Public sphere",
+      "frequency": 154
+    },
+    {
+      "topic": "International association football competitions",
+      "frequency": 63
+    },
+    {
+      "topic": "Aftermath of the Arab Spring",
+      "frequency": 72
+    },
+    {
+      "topic": "Politics of Asia",
+      "frequency": 123
+    },
+    {
+      "topic": "Israel–Palestine relations",
+      "frequency": 232
+    },
+    {
+      "topic": "Foreign relations of Korea",
+      "frequency": 266
+    },
+    {
+      "topic": "Politics of Korea",
+      "frequency": 195
+    },
+    {
+      "topic": "Immigration",
+      "frequency": 130
+    },
+    {
+      "topic": "Global politics",
+      "frequency": 305
+    },
+    {
+      "topic": "State of Palestine",
+      "frequency": 177
+    },
+    {
+      "topic": "Political career of Donald Trump",
+      "frequency": 335
+    },
+    {
+      "topic": "Economies",
+      "frequency": 42
+    },
+    {
+      "topic": "Disasters",
+      "frequency": 29
+    },
+    {
+      "topic": "Human activities",
+      "frequency": 114
+    },
+    {
+      "topic": "Refugees",
+      "frequency": 65
+    },
+    {
+      "topic": "Foreign relations of Israel",
+      "frequency": 185
+    },
+    {
+      "topic": "Government of Korea",
+      "frequency": 245
+    },
+    {
+      "topic": "North Korea",
+      "frequency": 284
+    },
+    {
+      "topic": "National security",
+      "frequency": 50
+    },
+    {
+      "topic": "Israel–Jordan relations",
+      "frequency": 202
+    },
+    {
+      "topic": "Ongoing conflicts",
+      "frequency": 99
+    },
+    {
+      "topic": "Forms of government",
+      "frequency": 21
+    },
+    {
+      "topic": "Terrorism",
+      "frequency": 56
+    },
+    {
+      "topic": "Government of Israel",
+      "frequency": 235
+    },
+    {
+      "topic": "Palestinian territories",
+      "frequency": 228
+    },
+    {
+      "topic": "East Asia",
+      "frequency": 86
+    },
+    {
+      "topic": "International sports competitions",
+      "frequency": 63
+    },
+    {
+      "topic": "Human migration",
+      "frequency": 120
+    },
+    {
+      "topic": "Arab Winter",
+      "frequency": 72
+    },
+    {
+      "topic": "3rd-millennium conflicts",
+      "frequency": 292
+    },
+    {
+      "topic": "Association football",
+      "frequency": 75
+    },
+    {
+      "topic": "Natural disasters",
+      "frequency": 25
+    },
+    {
+      "topic": "Israel",
+      "frequency": 242
+    },
+    {
+      "topic": "Criminal law",
+      "frequency": 47
+    },
+    {
+      "topic": "International relations",
+      "frequency": 703
+    },
+    {
+      "topic": "Politics of Turkey",
+      "frequency": 43
+    },
+    {
+      "topic": "American anti–illegal immigration activists",
+      "frequency": 99
+    },
+    {
+      "topic": "Cultural globalization",
+      "frequency": 98
+    },
+    {
+      "topic": "Physical geography",
+      "frequency": 22
+    },
+    {
+      "topic": "Sports events",
+      "frequency": 63
+    },
+    {
+      "topic": "Palestine (region)",
+      "frequency": 236
+    },
+    {
+      "topic": "Later lives",
+      "frequency": 181
+    },
+    {
+      "topic": "Migration",
+      "frequency": 66
+    },
+    {
+      "topic": "Team sports",
+      "frequency": 58
+    },
+    {
+      "topic": "War",
+      "frequency": 431
+    },
+    {
+      "topic": "Government of the United States",
+      "frequency": 143
+    },
+    {
+      "topic": "Dissolution of Syria",
+      "frequency": 72
+    },
+    {
+      "topic": "Government",
+      "frequency": 744
+    },
+    {
+      "topic": "Egypt–Israel relations",
+      "frequency": 202
+    },
+    {
+      "topic": "FIFA competitions",
+      "frequency": 65
+    },
+    {
+      "topic": "International security",
+      "frequency": 29
+    },
+    {
+      "topic": "Association football competitions",
+      "frequency": 66
+    },
+    {
+      "topic": "Afghanistan",
+      "frequency": 33
+    },
+    {
+      "topic": "Politics",
+      "frequency": 1036
+    },
+    {
+      "topic": "Trump family",
+      "frequency": 161
+    },
+    {
+      "topic": "Foreign policy",
+      "frequency": 391
+    },
+    {
+      "topic": "Sexual orientation",
+      "frequency": 54
+    },
+    {
+      "topic": "Executive Order 13769",
+      "frequency": 48
+    },
+    {
+      "topic": "Military",
+      "frequency": 185
+    },
+    {
+      "topic": "Conflicts",
+      "frequency": 524
+    },
+    {
+      "topic": "Arab–Israeli conflict",
+      "frequency": 216
+    },
+    {
+      "topic": "Culture",
+      "frequency": 50
+    },
+    {
+      "topic": "Human rights abuses",
+      "frequency": 167
+    },
+    {
+      "topic": "Activism",
+      "frequency": 31
+    },
+    {
+      "topic": "Foreign relations of the United States",
+      "frequency": 96
+    },
+    {
+      "topic": "Forced migration",
+      "frequency": 143
+    },
+    {
+      "topic": "Turkey",
+      "frequency": 39
+    },
+    {
+      "topic": "Government of North Korea",
+      "frequency": 289
+    },
+    {
+      "topic": "Human rights",
+      "frequency": 125
+    },
+    {
+      "topic": "United States",
+      "frequency": 75
+    },
+    {
+      "topic": "Gaza Strip",
+      "frequency": 185
+    },
+    {
+      "topic": "Presidency of the United States",
+      "frequency": 169
+    },
+    {
+      "topic": "Crimes",
+      "frequency": 118
+    },
+    {
+      "topic": "Chemical warfare",
+      "frequency": 16
+    },
+    {
+      "topic": "Government and personhood",
+      "frequency": 98
+    }
+  ],
+  "children": [
+    {
+      "topics": [
+        {
+          "topic": "Political events",
+          "frequency": 60
+        },
+        {
+          "topic": "Consequences of wars",
+          "frequency": 52
+        },
+        {
+          "topic": "Presidency of Donald Trump",
+          "frequency": 200
+        },
+        {
+          "topic": "Chronology of war",
+          "frequency": 62
+        },
+        {
+          "topic": "Equality rights",
+          "frequency": 48
+        },
+        {
+          "topic": "Foreign relations",
+          "frequency": 126
+        },
+        {
+          "topic": "Middle East",
+          "frequency": 264
+        },
+        {
+          "topic": "Donald Trump",
+          "frequency": 382
+        },
+        {
+          "topic": "Economy",
+          "frequency": 58
+        },
+        {
+          "topic": "Crime",
+          "frequency": 53
+        },
+        {
+          "topic": "Military of Israel",
+          "frequency": 185
+        },
+        {
+          "topic": "Elections",
+          "frequency": 39
+        },
+        {
+          "topic": "LGBT",
+          "frequency": 70
+        },
+        {
+          "topic": "Israeli–Palestinian conflict",
+          "frequency": 232
+        },
+        {
+          "topic": "Judaism and warfare",
+          "frequency": 202
+        },
+        {
+          "topic": "LGBT rights",
+          "frequency": 50
+        },
+        {
+          "topic": "Politics of Israel",
+          "frequency": 249
+        },
+        {
+          "topic": "Social institutions",
+          "frequency": 80
+        },
+        {
+          "topic": "Korea",
+          "frequency": 206
+        },
+        {
+          "topic": "Palestinian politics",
+          "frequency": 228
+        },
+        {
+          "topic": "Politics of North Korea",
+          "frequency": 296
+        },
+        {
+          "topic": "Justice",
+          "frequency": 186
+        },
+        {
+          "topic": "Law",
+          "frequency": 167
+        },
+        {
+          "topic": "Natural hazards",
+          "frequency": 24
+        },
+        {
+          "topic": "Europe",
+          "frequency": 21
+        },
+        {
+          "topic": "Islam and Judaism",
+          "frequency": 202
+        },
+        {
+          "topic": "Cultural geography",
+          "frequency": 93
+        },
+        {
+          "topic": "Politics of the Middle East",
+          "frequency": 309
+        },
+        {
+          "topic": "Public sphere",
+          "frequency": 154
+        },
+        {
+          "topic": "Politics of Asia",
+          "frequency": 123
+        },
+        {
+          "topic": "Israel–Palestine relations",
+          "frequency": 232
+        },
+        {
+          "topic": "Foreign relations of Korea",
+          "frequency": 266
+        },
+        {
+          "topic": "Politics of Korea",
+          "frequency": 195
+        },
+        {
+          "topic": "Immigration",
+          "frequency": 130
+        },
+        {
+          "topic": "Global politics",
+          "frequency": 305
+        },
+        {
+          "topic": "State of Palestine",
+          "frequency": 177
+        },
+        {
+          "topic": "Political career of Donald Trump",
+          "frequency": 335
+        },
+        {
+          "topic": "Economies",
+          "frequency": 42
+        },
+        {
+          "topic": "Disasters",
+          "frequency": 29
+        },
+        {
+          "topic": "Human activities",
+          "frequency": 114
+        },
+        {
+          "topic": "Refugees",
+          "frequency": 65
+        },
+        {
+          "topic": "Foreign relations of Israel",
+          "frequency": 185
+        },
+        {
+          "topic": "Government of Korea",
+          "frequency": 245
+        },
+        {
+          "topic": "North Korea",
+          "frequency": 284
+        },
+        {
+          "topic": "National security",
+          "frequency": 50
+        },
+        {
+          "topic": "Israel–Jordan relations",
+          "frequency": 202
+        },
+        {
+          "topic": "Forms of government",
+          "frequency": 21
+        },
+        {
+          "topic": "Terrorism",
+          "frequency": 56
+        },
+        {
+          "topic": "Government of Israel",
+          "frequency": 235
+        },
+        {
+          "topic": "Palestinian territories",
+          "frequency": 228
+        },
+        {
+          "topic": "East Asia",
+          "frequency": 86
+        },
+        {
+          "topic": "Human migration",
+          "frequency": 120
+        },
+        {
+          "topic": "3rd-millennium conflicts",
+          "frequency": 292
+        },
+        {
+          "topic": "Natural disasters",
+          "frequency": 25
+        },
+        {
+          "topic": "Israel",
+          "frequency": 242
+        },
+        {
+          "topic": "Criminal law",
+          "frequency": 47
+        },
+        {
+          "topic": "International relations",
+          "frequency": 703
+        },
+        {
+          "topic": "Politics of Turkey",
+          "frequency": 43
+        },
+        {
+          "topic": "American anti–illegal immigration activists",
+          "frequency": 99
+        },
+        {
+          "topic": "Cultural globalization",
+          "frequency": 98
+        },
+        {
+          "topic": "Physical geography",
+          "frequency": 22
+        },
+        {
+          "topic": "Palestine (region)",
+          "frequency": 236
+        },
+        {
+          "topic": "Later lives",
+          "frequency": 181
+        },
+        {
+          "topic": "Migration",
+          "frequency": 66
+        },
+        {
+          "topic": "War",
+          "frequency": 431
+        },
+        {
+          "topic": "Government of the United States",
+          "frequency": 143
+        },
+        {
+          "topic": "Government",
+          "frequency": 744
+        },
+        {
+          "topic": "Egypt–Israel relations",
+          "frequency": 202
+        },
+        {
+          "topic": "International security",
+          "frequency": 29
+        },
+        {
+          "topic": "Afghanistan",
+          "frequency": 33
+        },
+        {
+          "topic": "Politics",
+          "frequency": 1036
+        },
+        {
+          "topic": "Trump family",
+          "frequency": 161
+        },
+        {
+          "topic": "Foreign policy",
+          "frequency": 391
+        },
+        {
+          "topic": "Sexual orientation",
+          "frequency": 54
+        },
+        {
+          "topic": "Executive Order 13769",
+          "frequency": 48
+        },
+        {
+          "topic": "Conflicts",
+          "frequency": 524
+        },
+        {
+          "topic": "Arab–Israeli conflict",
+          "frequency": 216
+        },
+        {
+          "topic": "Culture",
+          "frequency": 50
+        },
+        {
+          "topic": "Human rights abuses",
+          "frequency": 167
+        },
+        {
+          "topic": "Activism",
+          "frequency": 31
+        },
+        {
+          "topic": "Foreign relations of the United States",
+          "frequency": 96
+        },
+        {
+          "topic": "Forced migration",
+          "frequency": 143
+        },
+        {
+          "topic": "Turkey",
+          "frequency": 39
+        },
+        {
+          "topic": "Government of North Korea",
+          "frequency": 289
+        },
+        {
+          "topic": "Human rights",
+          "frequency": 125
+        },
+        {
+          "topic": "United States",
+          "frequency": 75
+        },
+        {
+          "topic": "Gaza Strip",
+          "frequency": 185
+        },
+        {
+          "topic": "Presidency of the United States",
+          "frequency": 169
+        },
+        {
+          "topic": "Crimes",
+          "frequency": 118
+        },
+        {
+          "topic": "Chemical warfare",
+          "frequency": 16
+        },
+        {
+          "topic": "Government and personhood",
+          "frequency": 98
+        }
+      ],
+      "children": [
+        {
+          "topics": [
+            {
+              "topic": "Political events",
+              "frequency": 60
+            },
+            {
+              "topic": "Consequences of wars",
+              "frequency": 52
+            },
+            {
+              "topic": "Equality rights",
+              "frequency": 48
+            },
+            {
+              "topic": "Middle East",
+              "frequency": 264
+            },
+            {
+              "topic": "Economy",
+              "frequency": 58
+            },
+            {
+              "topic": "Crime",
+              "frequency": 53
+            },
+            {
+              "topic": "Military of Israel",
+              "frequency": 185
+            },
+            {
+              "topic": "Elections",
+              "frequency": 39
+            },
+            {
+              "topic": "LGBT",
+              "frequency": 70
+            },
+            {
+              "topic": "Israeli–Palestinian conflict",
+              "frequency": 232
+            },
+            {
+              "topic": "Judaism and warfare",
+              "frequency": 202
+            },
+            {
+              "topic": "LGBT rights",
+              "frequency": 50
+            },
+            {
+              "topic": "Politics of Israel",
+              "frequency": 249
+            },
+            {
+              "topic": "Social institutions",
+              "frequency": 80
+            },
+            {
+              "topic": "Korea",
+              "frequency": 206
+            },
+            {
+              "topic": "Palestinian politics",
+              "frequency": 228
+            },
+            {
+              "topic": "Politics of North Korea",
+              "frequency": 296
+            },
+            {
+              "topic": "Justice",
+              "frequency": 186
+            },
+            {
+              "topic": "Law",
+              "frequency": 167
+            },
+            {
+              "topic": "Europe",
+              "frequency": 21
+            },
+            {
+              "topic": "Islam and Judaism",
+              "frequency": 202
+            },
+            {
+              "topic": "Israel–Palestine relations",
+              "frequency": 232
+            },
+            {
+              "topic": "Foreign relations of Korea",
+              "frequency": 266
+            },
+            {
+              "topic": "Politics of Korea",
+              "frequency": 195
+            },
+            {
+              "topic": "State of Palestine",
+              "frequency": 177
+            },
+            {
+              "topic": "Economies",
+              "frequency": 42
+            },
+            {
+              "topic": "Refugees",
+              "frequency": 65
+            },
+            {
+              "topic": "Foreign relations of Israel",
+              "frequency": 185
+            },
+            {
+              "topic": "Government of Korea",
+              "frequency": 245
+            },
+            {
+              "topic": "North Korea",
+              "frequency": 284
+            },
+            {
+              "topic": "National security",
+              "frequency": 50
+            },
+            {
+              "topic": "Israel–Jordan relations",
+              "frequency": 202
+            },
+            {
+              "topic": "Forms of government",
+              "frequency": 21
+            },
+            {
+              "topic": "Government of Israel",
+              "frequency": 235
+            },
+            {
+              "topic": "Palestinian territories",
+              "frequency": 228
+            },
+            {
+              "topic": "Human migration",
+              "frequency": 120
+            },
+            {
+              "topic": "Israel",
+              "frequency": 242
+            },
+            {
+              "topic": "International relations",
+              "frequency": 703
+            },
+            {
+              "topic": "Politics of Turkey",
+              "frequency": 43
+            },
+            {
+              "topic": "American anti–illegal immigration activists",
+              "frequency": 99
+            },
+            {
+              "topic": "Palestine (region)",
+              "frequency": 236
+            },
+            {
+              "topic": "Later lives",
+              "frequency": 181
+            },
+            {
+              "topic": "Migration",
+              "frequency": 66
+            },
+            {
+              "topic": "Egypt–Israel relations",
+              "frequency": 202
+            },
+            {
+              "topic": "International security",
+              "frequency": 29
+            },
+            {
+              "topic": "Afghanistan",
+              "frequency": 33
+            },
+            {
+              "topic": "Foreign policy",
+              "frequency": 391
+            },
+            {
+              "topic": "Sexual orientation",
+              "frequency": 54
+            },
+            {
+              "topic": "Arab–Israeli conflict",
+              "frequency": 216
+            },
+            {
+              "topic": "Activism",
+              "frequency": 31
+            },
+            {
+              "topic": "Turkey",
+              "frequency": 39
+            },
+            {
+              "topic": "Government of North Korea",
+              "frequency": 289
+            },
+            {
+              "topic": "Human rights",
+              "frequency": 125
+            },
+            {
+              "topic": "Gaza Strip",
+              "frequency": 185
+            },
+            {
+              "topic": "Presidency of the United States",
+              "frequency": 169
+            },
+            {
+              "topic": "Chemical warfare",
+              "frequency": 16
+            },
+            {
+              "topic": "Government and personhood",
+              "frequency": 98
+            }
+          ],
+          "children": [
+            {
+              "topics": [
+                {
+                  "topic": "Political events",
+                  "frequency": 60
+                },
+                {
+                  "topic": "Equality rights",
+                  "frequency": 48
+                },
+                {
+                  "topic": "Middle East",
+                  "frequency": 264
+                },
+                {
+                  "topic": "Economy",
+                  "frequency": 58
+                },
+                {
+                  "topic": "Crime",
+                  "frequency": 53
+                },
+                {
+                  "topic": "Military of Israel",
+                  "frequency": 185
+                },
+                {
+                  "topic": "Elections",
+                  "frequency": 39
+                },
+                {
+                  "topic": "LGBT",
+                  "frequency": 70
+                },
+                {
+                  "topic": "Israeli–Palestinian conflict",
+                  "frequency": 232
+                },
+                {
+                  "topic": "Judaism and warfare",
+                  "frequency": 202
+                },
+                {
+                  "topic": "LGBT rights",
+                  "frequency": 50
+                },
+                {
+                  "topic": "Politics of Israel",
+                  "frequency": 249
+                },
+                {
+                  "topic": "Social institutions",
+                  "frequency": 80
+                },
+                {
+                  "topic": "Palestinian politics",
+                  "frequency": 228
+                },
+                {
+                  "topic": "Justice",
+                  "frequency": 186
+                },
+                {
+                  "topic": "Law",
+                  "frequency": 167
+                },
+                {
+                  "topic": "Europe",
+                  "frequency": 21
+                },
+                {
+                  "topic": "Islam and Judaism",
+                  "frequency": 202
+                },
+                {
+                  "topic": "Israel–Palestine relations",
+                  "frequency": 232
+                },
+                {
+                  "topic": "State of Palestine",
+                  "frequency": 177
+                },
+                {
+                  "topic": "Economies",
+                  "frequency": 42
+                },
+                {
+                  "topic": "Foreign relations of Israel",
+                  "frequency": 185
+                },
+                {
+                  "topic": "National security",
+                  "frequency": 50
+                },
+                {
+                  "topic": "Israel–Jordan relations",
+                  "frequency": 202
+                },
+                {
+                  "topic": "Forms of government",
+                  "frequency": 21
+                },
+                {
+                  "topic": "Government of Israel",
+                  "frequency": 235
+                },
+                {
+                  "topic": "Palestinian territories",
+                  "frequency": 228
+                },
+                {
+                  "topic": "Israel",
+                  "frequency": 242
+                },
+                {
+                  "topic": "Politics of Turkey",
+                  "frequency": 43
+                },
+                {
+                  "topic": "Palestine (region)",
+                  "frequency": 236
+                },
+                {
+                  "topic": "Egypt–Israel relations",
+                  "frequency": 202
+                },
+                {
+                  "topic": "International security",
+                  "frequency": 29
+                },
+                {
+                  "topic": "Afghanistan",
+                  "frequency": 33
+                },
+                {
+                  "topic": "Sexual orientation",
+                  "frequency": 54
+                },
+                {
+                  "topic": "Arab–Israeli conflict",
+                  "frequency": 216
+                },
+                {
+                  "topic": "Activism",
+                  "frequency": 31
+                },
+                {
+                  "topic": "Turkey",
+                  "frequency": 39
+                },
+                {
+                  "topic": "Human rights",
+                  "frequency": 125
+                },
+                {
+                  "topic": "Gaza Strip",
+                  "frequency": 185
+                },
+                {
+                  "topic": "Chemical warfare",
+                  "frequency": 16
+                },
+                {
+                  "topic": "Government and personhood",
+                  "frequency": 98
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Consequences of wars",
+                  "frequency": 52
+                },
+                {
+                  "topic": "Refugees",
+                  "frequency": 65
+                },
+                {
+                  "topic": "Human migration",
+                  "frequency": 120
+                },
+                {
+                  "topic": "Migration",
+                  "frequency": 66
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Korea",
+                  "frequency": 206
+                },
+                {
+                  "topic": "Politics of North Korea",
+                  "frequency": 296
+                },
+                {
+                  "topic": "Foreign relations of Korea",
+                  "frequency": 266
+                },
+                {
+                  "topic": "Politics of Korea",
+                  "frequency": 195
+                },
+                {
+                  "topic": "Government of Korea",
+                  "frequency": 245
+                },
+                {
+                  "topic": "North Korea",
+                  "frequency": 284
+                },
+                {
+                  "topic": "International relations",
+                  "frequency": 703
+                },
+                {
+                  "topic": "Foreign policy",
+                  "frequency": 391
+                },
+                {
+                  "topic": "Government of North Korea",
+                  "frequency": 289
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "American anti–illegal immigration activists",
+                  "frequency": 99
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Later lives",
+                  "frequency": 181
+                },
+                {
+                  "topic": "Presidency of the United States",
+                  "frequency": 169
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "topics": [
+            {
+              "topic": "Presidency of Donald Trump",
+              "frequency": 200
+            },
+            {
+              "topic": "Donald Trump",
+              "frequency": 382
+            },
+            {
+              "topic": "Cultural geography",
+              "frequency": 93
+            },
+            {
+              "topic": "Immigration",
+              "frequency": 130
+            },
+            {
+              "topic": "Political career of Donald Trump",
+              "frequency": 335
+            },
+            {
+              "topic": "Cultural globalization",
+              "frequency": 98
+            },
+            {
+              "topic": "Trump family",
+              "frequency": 161
+            }
+          ],
+          "children": [
+            {
+              "topics": [
+                {
+                  "topic": "Presidency of Donald Trump",
+                  "frequency": 200
+                },
+                {
+                  "topic": "Trump family",
+                  "frequency": 161
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Donald Trump",
+                  "frequency": 382
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Cultural geography",
+                  "frequency": 93
+                },
+                {
+                  "topic": "Cultural globalization",
+                  "frequency": 98
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Immigration",
+                  "frequency": 130
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Political career of Donald Trump",
+                  "frequency": 335
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "topics": [
+            {
+              "topic": "Chronology of war",
+              "frequency": 62
+            },
+            {
+              "topic": "Foreign relations",
+              "frequency": 126
+            },
+            {
+              "topic": "Public sphere",
+              "frequency": 154
+            },
+            {
+              "topic": "Politics of Asia",
+              "frequency": 123
+            },
+            {
+              "topic": "Human activities",
+              "frequency": 114
+            },
+            {
+              "topic": "Terrorism",
+              "frequency": 56
+            },
+            {
+              "topic": "East Asia",
+              "frequency": 86
+            },
+            {
+              "topic": "Criminal law",
+              "frequency": 47
+            },
+            {
+              "topic": "Government of the United States",
+              "frequency": 143
+            },
+            {
+              "topic": "Executive Order 13769",
+              "frequency": 48
+            },
+            {
+              "topic": "Conflicts",
+              "frequency": 524
+            },
+            {
+              "topic": "Culture",
+              "frequency": 50
+            },
+            {
+              "topic": "Foreign relations of the United States",
+              "frequency": 96
+            },
+            {
+              "topic": "Forced migration",
+              "frequency": 143
+            },
+            {
+              "topic": "United States",
+              "frequency": 75
+            }
+          ],
+          "children": [
+            {
+              "topics": [
+                {
+                  "topic": "Chronology of war",
+                  "frequency": 62
+                },
+                {
+                  "topic": "Human activities",
+                  "frequency": 114
+                },
+                {
+                  "topic": "Culture",
+                  "frequency": 50
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Foreign relations",
+                  "frequency": 126
+                },
+                {
+                  "topic": "Politics of Asia",
+                  "frequency": 123
+                },
+                {
+                  "topic": "Government of the United States",
+                  "frequency": 143
+                },
+                {
+                  "topic": "Foreign relations of the United States",
+                  "frequency": 96
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Public sphere",
+                  "frequency": 154
+                },
+                {
+                  "topic": "Terrorism",
+                  "frequency": 56
+                },
+                {
+                  "topic": "East Asia",
+                  "frequency": 86
+                },
+                {
+                  "topic": "Criminal law",
+                  "frequency": 47
+                },
+                {
+                  "topic": "Executive Order 13769",
+                  "frequency": 48
+                },
+                {
+                  "topic": "United States",
+                  "frequency": 75
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Conflicts",
+                  "frequency": 524
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Forced migration",
+                  "frequency": 143
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "topics": [
+            {
+              "topic": "Natural hazards",
+              "frequency": 24
+            },
+            {
+              "topic": "Politics of the Middle East",
+              "frequency": 309
+            },
+            {
+              "topic": "Global politics",
+              "frequency": 305
+            },
+            {
+              "topic": "Disasters",
+              "frequency": 29
+            },
+            {
+              "topic": "Natural disasters",
+              "frequency": 25
+            },
+            {
+              "topic": "Physical geography",
+              "frequency": 22
+            },
+            {
+              "topic": "Government",
+              "frequency": 744
+            },
+            {
+              "topic": "Politics",
+              "frequency": 1036
+            }
+          ],
+          "children": [
+            {
+              "topics": [
+                {
+                  "topic": "Natural hazards",
+                  "frequency": 24
+                },
+                {
+                  "topic": "Physical geography",
+                  "frequency": 22
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Politics of the Middle East",
+                  "frequency": 309
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Global politics",
+                  "frequency": 305
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Disasters",
+                  "frequency": 29
+                },
+                {
+                  "topic": "Natural disasters",
+                  "frequency": 25
+                }
+              ],
+              "children": []
+            },
+            {
+              "topics": [
+                {
+                  "topic": "Government",
+                  "frequency": 744
+                },
+                {
+                  "topic": "Politics",
+                  "frequency": 1036
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "topics": [
+            {
+              "topic": "3rd-millennium conflicts",
+              "frequency": 292
+            },
+            {
+              "topic": "War",
+              "frequency": 431
+            },
+            {
+              "topic": "Human rights abuses",
+              "frequency": 167
+            },
+            {
+              "topic": "Crimes",
+              "frequency": 118
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "topics": [
+        {
+          "topic": "Sports competitions",
+          "frequency": 63
+        },
+        {
+          "topic": "Sports",
+          "frequency": 72
+        },
+        {
+          "topic": "International association football competitions",
+          "frequency": 63
+        },
+        {
+          "topic": "International sports competitions",
+          "frequency": 63
+        },
+        {
+          "topic": "Association football",
+          "frequency": 75
+        },
+        {
+          "topic": "Sports events",
+          "frequency": 63
+        },
+        {
+          "topic": "Team sports",
+          "frequency": 58
+        },
+        {
+          "topic": "FIFA competitions",
+          "frequency": 65
+        },
+        {
+          "topic": "Association football competitions",
+          "frequency": 66
+        }
+      ],
+      "children": [
+        {
+          "topics": [
+            {
+              "topic": "Sports competitions",
+              "frequency": 63
+            },
+            {
+              "topic": "International association football competitions",
+              "frequency": 63
+            },
+            {
+              "topic": "International sports competitions",
+              "frequency": 63
+            }
+          ],
+          "children": []
+        },
+        {
+          "topics": [
+            {
+              "topic": "Sports",
+              "frequency": 72
+            },
+            {
+              "topic": "FIFA competitions",
+              "frequency": 65
+            }
+          ],
+          "children": []
+        },
+        {
+          "topics": [
+            {
+              "topic": "Association football",
+              "frequency": 75
+            }
+          ],
+          "children": []
+        },
+        {
+          "topics": [
+            {
+              "topic": "Sports events",
+              "frequency": 63
+            }
+          ],
+          "children": []
+        },
+        {
+          "topics": [
+            {
+              "topic": "Team sports",
+              "frequency": 58
+            },
+            {
+              "topic": "Association football competitions",
+              "frequency": 66
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "topics": [
+        {
+          "topic": "Diplomacy",
+          "frequency": 223
+        }
+      ],
+      "children": []
+    },
+    {
+      "topics": [
+        {
+          "topic": "Warfare",
+          "frequency": 352
+        }
+      ],
+      "children": []
+    },
+    {
+      "topics": [
+        {
+          "topic": "Religion-based civil wars",
+          "frequency": 106
+        },
+        {
+          "topic": "Shia–Sunni sectarian violence",
+          "frequency": 80
+        },
+        {
+          "topic": "Arab rebellions",
+          "frequency": 73
+        },
+        {
+          "topic": "Aftermath of the Arab Spring",
+          "frequency": 72
+        },
+        {
+          "topic": "Ongoing conflicts",
+          "frequency": 99
+        },
+        {
+          "topic": "Arab Winter",
+          "frequency": 72
+        },
+        {
+          "topic": "Dissolution of Syria",
+          "frequency": 72
+        },
+        {
+          "topic": "Military",
+          "frequency": 185
+        }
+      ],
+      "children": [
+        {
+          "topics": [
+            {
+              "topic": "Religion-based civil wars",
+              "frequency": 106
+            },
+            {
+              "topic": "Shia–Sunni sectarian violence",
+              "frequency": 80
+            },
+            {
+              "topic": "Arab rebellions",
+              "frequency": 73
+            },
+            {
+              "topic": "Dissolution of Syria",
+              "frequency": 72
+            }
+          ],
+          "children": []
+        },
+        {
+          "topics": [
+            {
+              "topic": "Aftermath of the Arab Spring",
+              "frequency": 72
+            }
+          ],
+          "children": []
+        },
+        {
+          "topics": [
+            {
+              "topic": "Ongoing conflicts",
+              "frequency": 99
+            }
+          ],
+          "children": []
+        },
+        {
+          "topics": [
+            {
+              "topic": "Arab Winter",
+              "frequency": 72
+            }
+          ],
+          "children": []
+        },
+        {
+          "topics": [
+            {
+              "topic": "Military",
+              "frequency": 185
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
